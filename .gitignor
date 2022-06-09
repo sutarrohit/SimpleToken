@@ -1,6 +1,0 @@
-.env
-node_modules
-
-#Hardhat file
-cache
-artifacts
