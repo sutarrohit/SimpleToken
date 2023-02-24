@@ -1,6 +1,6 @@
 # SimpleToken
 
-This project shows how the basic Token transfer works in Ethereum..
+This project shows how ERC20 Token transfer works in Ethereum..
 
 Try running some of the following tasks:
 
